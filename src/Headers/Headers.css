@@ -1,0 +1,32 @@
+.icon {
+  color: #fcb900;
+}
+.address-bar .phone-number .email {
+  font-family: Oswald, sans-serif;
+  font-weight: 300;
+  line-height: 26px;
+}
+.mkd-separator {
+  border-color: rgba(255, 255, 255, 0.25);
+  border-style: solid;
+  width: 5px;
+  border-bottom-width: 20px;
+}
+
+.navbar-end {
+  padding-right: 100px;
+}
+.navbar-end .brands-icon {
+  font-size: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.navbar-end .brands-icon :hover {
+  color: #fcb900;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.navbar-end .mkd {
+  padding-right: 20px;
+  padding-left: 20px;
+}
